@@ -1,4 +1,3 @@
-
 .nav_menu{
     display: flex;
     position: fixed;
@@ -18,8 +17,11 @@ h5.hsvi {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.cardimg{
+    height: 18rem; 
+    object-fit: cover;
+}
 @keyframes move1 {
     from {width: 1ch;}
     to {width:100%;}
 }
-
